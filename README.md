@@ -1,5 +1,11 @@
 # PPTX2MD
 
+----
+
+This repository was cloned from original repos, for enhancing page separator.
+
+----
+
 [![Downloads](https://pepy.tech/badge/pptx2md)](https://pepy.tech/project/pptx2md)
 
 A tool to convert Powerpoint pptx file into markdown.

@@ -129,8 +129,9 @@ def process_text_block(shape, _):
 
 def process_notes(text, _):
   global out
-  out.put_para('---')
+  out.put_para('--- BEGIN NOTE ---')
   out.put_para(text)
+  out.put_para('---  END NOTE  ---')
   return []
 
 
